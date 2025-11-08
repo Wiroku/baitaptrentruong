@@ -1,4 +1,4 @@
-import { products } from "./models/product";
+import { products } from "./models/products";
 import React from "react";
 import { useNavigate } from "react-router-dom";
 const Trang1 = () => {

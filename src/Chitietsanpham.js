@@ -1,7 +1,7 @@
 // src/Chitietsanpham.js
 import React from "react";
 import { useParams, useNavigate } from "react-router-dom";
-import { products } from "./models/product";
+import { products } from "./models/products";
 
 export default function Chitietsanpham() {
   const { id } = useParams();

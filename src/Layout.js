@@ -21,7 +21,7 @@ const Layout = () => {
             <div class="logo">
               <a href="/">
                 <img
-                  src="https://giadinh.edu.vn/upload/photo/logogdu-02-5690.png"
+                  src="https://www.bubbleblabber.com/wp-content/uploads/2025/09/TatsukiFujimoto17to26-819x1024-1-819x765.jpeg"
                   alt="Logo"
                 />
               </a>
@@ -35,7 +35,7 @@ const Layout = () => {
       </header>
 
       <div class="news-home">
-        <div class="container_main" style={{ minHeight: 5500 }}>
+        <div class="container_main" style={{ minHeight: 800 }}>
           <Outlet />
         </div>
       </div>

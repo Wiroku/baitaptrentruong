@@ -2,38 +2,10 @@ const Trang2 = () => {
   const dssv = [
     {
       id: 1,
-      hoten: "Nguyễn Văn An",
-      lop: "K19",
-      email: "abc@1234.edu.vn",
-      anh: "https://htmediagroup.vn/wp-content/uploads/2022/11/Anh-58-copy-min.jpg.webp",
-    },
-    {
-      id: 2,
-      hoten: "Trần Văn Bình",
-      lop: "K19",
-      email: "abc@1234.edu.vn",
-      anh: "https://htmediagroup.vn/wp-content/uploads/2022/08/Anh-cong-so-1-min.jpg.webp",
-    },
-    {
-      id: 3,
-      hoten: "Hà Thị Hiền",
-      lop: "K19",
-      email: "abc@cuong.edu.vn",
-      anh: "https://smilemedia.vn/wp-content/uploads/2022/08/Concept-chup-anh-ca-nhan-chan-dung.jpg",
-    },
-    {
-      id: 4,
-      hoten: "Nguyễn Kiều Hải My",
-      lop: "K19",
-      email: "abc@cuong.edu.vn",
-      anh: "https://studiochupanhdep.com//Upload/Images/Album/anh-beauty-01.jpg",
-    },
-    {
-      id: 5,
-      hoten: "Nguyễn Thị Hòa Minzi",
-      lop: "K19",
-      email: "hoaminzi@gdu.edu.vn",
-      anh: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1OnhWi.img?w=720&h=960&m=6&x=247&y=169&s=278&d=278",
+      hoten: "Huỳnh Hà Duy Khánh ",
+      lop: "K18",
+      email: "kh30826@.edu.vn",
+      anh: "https://scontent-hkg4-1.xx.fbcdn.net/v/t39.30808-6/494478626_1182234286733777_8921185522987939122_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeECjhCv0mshjhXD7SGXrhyyiWM6mUop6maJYzqZSinqZihO8-KrDn2yXu1NnxmWG-To_nVQHVcUCHQ7khyTEUm3&_nc_ohc=meBXYlJoUMIQ7kNvwEHJTUU&_nc_oc=AdkIxd5hTEFIQiYcFPZW3KCIAVj2gpiSj-TiNhla7hNBJhYXwMIjUpzEwG_N9ZTju_ByURJ7kj31j_-eIHWMVILH&_nc_zt=23&_nc_ht=scontent-hkg4-1.xx&_nc_gid=DB1B1DvLJHYiA1gbyWA5cg&oh=00_AfjB8mHXzZWNWZcrsH5emMc7KlcC0VQMFdVx10vCZRyCAg&oe=69121AC4",
     },
   ];
 
